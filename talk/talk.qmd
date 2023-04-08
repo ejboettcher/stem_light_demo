@@ -1,14 +1,15 @@
 ---
-title: "STEM Light Demo"
+title: "STEM<br> Light Demo"
 author: "Evelyn J. Boettcher"
 subtitle: "How we use light."
 title-slide-attributes:
-    data-background-image: 'img/2022Taste_of_IT_titleBackground.svg'
+    data-background-image: 'img/light-prism-color-angle-colors-wavelength-wavelengths.webp'
     data-background-size: "100% 100% "
     data-background-position: "0% "
     data-background-opacity: "0.95"
 bibliography: references.bib
-date: Developers & Data Analytics
+
+date: May 1, 2023
 format:
     revealjs:
         incremental: false
@@ -19,125 +20,428 @@ fig-cap-location: margin
 ## Physicist
 
 I am a physicist.  A physicist is someone that studies the physical world around us.
-It is considered one of the hard sciences.  We try to answer questions? These questions lead to new understandings.  They also lead to more questions that we try to answer.
+It is considered one of the hard sciences.  We try to answer questions? 
+
+* These questions lead to new understandings.
+* They also lead to more questions that we try to answer.
+
 The result of these questions help make the world better.
+
+:::{.columns}
+::::{.column width=30%}
+![Standford Women Physicist](img/kachru_natalie_chalkboard3.webp)
+::::
+::::{.column width=30%}
+![C17](img/evelyn_c17.jpeg)
+::::
+::::{.column width=30%}
+![Standford Man Physicist](img/kachru_brandon.webp)
+::::
+:::
 
 One of the hardest parts about being a physicist is trying to answer seemingly easy questions.
 
-Like, why is the ocean blue?  or why is the sky blue?
+<br>
+
+### Why is the ocean blue?  or Why is the sky blue?
+
+
 
 ---
 
-## Easy sounding questions.
+## Easy sounding questions
 
-Questions are only easy; if you know the answers.
+:::{.columlns}
+::::{.column width=60%}
+Questions are only easy; 
+
+* if you already know the answer(s).
 
 One reason easy sounding questions are hard to answer is because people don't want to look stupid.
+::::
+::::{.column width=35%}
+
+![Image by pch.vector on Freepik](img/Businessmanmovingbox.jpg)
+::::
+:::
 
 Who wants to make a mistake answering a kindergartener's question?
 
-So,
-Why is the ocean blue?
+<br>
 
-The ocean floor is not blue
-A cup of water is not blue
-Deeper the water the bluer it is.
+<br>
 
-Fun Fact:
+### Why is the ocean blue?
+
+* The ocean floor is not blue. 
+* A cup of water is not blue. 
+
+However, deeper the water, the bluer it is.
+
+<br>
+
+#### Fun Fact:
+
 The answer to this question, explains why we see only certain colors of light.
+
+---
 
 ## Light
 
-So what is light?  Light is an electromagnetic wave.
-Depending on wavelength it has different amounts of energy.  E=h$\nu$
+So what is light? 
 
-Low frequencies are radio waves, wifi waves.  They can have a wavelength in meters.  Our eyes are only ~1 iinch so it makes sense we can not see these wavelength.
+<br>
+<br>
 
-High frequency wavelengths are really small, and these are the gamma rays, x-rays.  X-rays are so small that they go right through many types of material.  So it makes sense that we can not see those.
+### Light is an electromagnetic wave.
+
+<br>
+<br>
+<br>
+Luckily, you are already familer with them.
+
+---
+
+## Electromagentic waves
+
+:::{.columns}
+::::{.column width=15%}
+<br>
+<br>
+<br>
+
+$c=\lambda\nu$
+
+* c = speed of light
+* $\lambda$ = Wavelength (m)
+* $\nu$ = frequence (1/sec)
+
+::::
+::::{.column width=85%}
+![EM spectrum](img/EM_Spectrum_Properties.svg){width=100%}
+@wavelengths
+::::
+:::
+
+## Electromagnetic waves (EM)
+
+
+:::{.columns}
+::::{.column width=67%}
+EM waves are electric and magnetic fields that travel at the speed of Light (in a vacumm)
+
+<br>
+
+Depending on wavelength it has different amounts of energy.  
+<br>
+
+$E=h\nu$
+
+<br>
+
+Low frequencies are radio waves, wifi waves.  They can have a wavelength in meters. 
+
+::::
+::::{.column width=30%}
+
+![EM](./img/Electromagneticwave3D.gif)
+
+::::
+:::
+
+Our eyes are only ~1 inch wide, so it makes sense we can not see these wavelength.
+
+<br>
+
+High frequency wavelengths are really small. These are the gamma rays, x-rays.  X-rays are so small that they go right through many types of material.  So it makes sense that we can not see those.
+
+<br>
 
 But there are lots of wavelengths in between these.  So why do we only see in the “visible” spectrum?
 
-(https://www.e-education.psu.edu/meteo300/node/682)
+---
 
-That brings us back to why the ocean is blue.
+Which,  brings us back to 
+
+<br>
+<br>
+
+### Why the ocean is blue?
+
+---
+
+## Why the ocean is blue?
+
+<br>
+<br>
+
+Name one thing our eyes and the oceans have in common.
+
+---
+
+### They are both made out of water
+
+![](./img/maldives-unseen-beauty-1641934.jpg)
 
 ---
 
 ## Absorption of light in water
 
-image
+![water absorption](./img/water_spectrum_2.gif)
 
 
-There is a narrow band where water does not absorb EM waves. Blue happens to absorb the least.  So when white light enters the water everything else gets absorbed.  The light that comes back is basically blue.
+There is a narrow band where water does not absorb EM waves. 
 
-Our eyes are made out of water.  So if we want to see in low light conditions, we needed to evolve to see in this band.
+<br>
+Blue happens to be absorbed the least! 
 
+---
 
+## Why Oceans are blue
 
-## Breaking it down
+When white light enters the water everything else gets absorbed. 
+<br>
+The light that comes back is basically blue.
+
+<br>
+Our eyes are made out of water.  
+<br>
+So if we want to see in low light conditions, we needed to evolve to see in this band.
+
+:::{.columns}
+::::{.column width=49%}
+
+![ocean](./img/maldives-unseen-beauty-1641934.jpg)
+::::
+::::{.column width=49%}
+
+![water absorption @water_absorption](./img/water_spectrum_2.gif)
+::::
+:::
+
+---
+
+:::{.columns}
+::::{.column width=60%}
+
+### Breaking it down
 
 What is white light?
-https://www.britannica.com/technology/prism-optics
 
-%% How is this useful
+* Contains colors: Red, Green, Yellow & Blue
+* Electromagnetic wave
+
+::::
+::::{.column width=30%}
+
+![@prism](./img/light-prism-color-angle-colors-wavelength-wavelengths.webp)
+::::
+:::
+
+
+![EM @wavelengths](./img/EM_Spectrum_Properties.svg)
+
+
+---
+
+## How is this useful
+
+---
+
+## How is this useful
+
 
 Knowing how light travels in a material is used in:
-Farming
-Finding Mineral deposits
-Identifying chemical spills
-Identifying what the planets are made of
 
-Different wavelengths get absorbed in the atmosphere.  You need to correct for the current atmosphere conditions to correctly identify materials.
+* Farming: Plant health, soil health
+* Finding mineral deposits
+* Identifying chemical spills
+* Identifying what the planets and stars are made of
+
+Because, different wavelengths get absorbed in the atmosphere differently.  
+<br>
+
+You need to correct for the current atmosphere conditions to correctly identify materials.
+
+![HSI image of plant](img/hsi_image_plant.jpg) @MISHRA201749
 
 
 ## How is light used to identify materials
 
-Scientists use spectroscopy to identify materials.  Each material has a unique spectral signature.
+
+:::{.columns}
+::::{.column width=50%}
+Scientists use spectroscopy to identify materials.
+<br>
+<br>
+Each material has a unique spectral signature.
+
+<br>
+
 The easiest way to get the unique colors from a material is to cause the light to bend.
+
+<br>
+<br>
+
 Each color will bend a different amount.  This allows you to see the different colors coming from it.
 
-## Helium
 
-This method was used to prove helium  existed years before it was found on earth.
-http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atspect.html
+::::
+::::{.column width=50%}
+![HSI image of plant](img/hsi_image_plant.jpg) @MISHRA201749
 
-### Outer Space
+![@prism](./img/light-prism-color-angle-colors-wavelength-wavelengths.webp)
+::::
+:::
+
+
+## Outer Space
+
+:::{.columns}
+::::{.column width=60%}
 
 How does one figure out what a sun or planets are if you never went there?
 
-We use the light coming from there.   The light has come from that star or planet and  we can examine it.
+<br>
+<br>
+
+#### Use the light coming from the stars.
+
+<br>
+
+The light is coming from that star/planet and  we can examine it.
+<br>
+<br>
+
+### Helium
+
+
+This method was used to prove helium  existed years before it was found on earth.
+
+<br>
+<br>
+
+
+* Helium discovered on sun: 1859
+* Helium discovered on Earth: 1895
+
+::::
+::::{.column width=37%}
+![helium @helium](./img/heltube.jpg)
+::::
+:::
 
 ---
 
-## Why is the ocean blue?
+## Physicist
 
-If no one tried to answer questions like this.
-We would not have the ability to remotely analyze plant health or
-Know what the stars are made of.
-We would now know why we see in the visible spectrum.
+If we did not have people that tried to answer, "Why is the ocean blue?""
+
+
+<br>
+
+We would not have the ability to
+
+* Remotely analyze plant health or
+* Know what the stars are made of.
+* We would now know why we see in the visible spectrum.
 
 ---
+
 
 ## Why is the sky blue?
 
+
+:::{.columns}
+::::{.column width=60%}
 Not a simple answer.
 
-* absorptions
-* scattering
-* refraction
+* Absorptions
+* Refraction
 
-Another reason why it is hard to answer simple questions is that they are complicated.
-You have to understand lots of different areas of science.
 
-Take scattering?  What is that?
 
-Let's take a ball.  If I throw a ball, when it hits something, it either bounces back or moves through the object.  Like dropping a penny into a wishing well.
+### Also, Scattering
 
-For light, when light encounters an object, either reflects (bounces back) or refracts (moves through).  The forward direction, giving rise to refraction and absorption.  The backward direction, causing reflection, as shown in Fig. 2a. How it refracts and reflects is governed by physical laws.
+Another reason why it is hard to answer simple questions.
 
-However, when things get small, think atomic scale.  All bets are off.  Under certain conditions when the dimensions of the object are on the order of the wavelength of light (nanometers), the light will be spread in all directions.  Reflected or refracted light goes in one direction as determined by the laws of reflection and refraction, as shown in Fig. 2b.
+<br>
+The answers tend to be complicated!
+
+<br>
+<br>
+Now, we have to  understand scattering too.
+
+<br>
+::::
+::::{.column width=37%}
+![Apollo 17 Image: Nasa Earth](./img/apollo_17_blue_marble_photo_dec_7_1972_as17-148-22727.jpg)
+
+
+::::
+:::
+
+
+You have to understand lots of different areas of science, just to answer a **"easy"** question. 
+
+
+---
+
+## Relfection and Refracton
+
+Before we get to scattering, let's talk about reflection and refraction
+
+<br>
+
+
+Let's take a ball.  If I throw a ball, when it hits something, it either bounces back or moves through the object.  
+
+* Like dropping a penny into a wishing well.
+
+<br>
+
+For light, when light encounters an object, either reflects (bounces back) or refracts (moves through).  The forward direction, giving rise to refraction and absorption.  The backward direction, causing reflection. How it refracts and reflects is governed by physical laws.
+
+![@refraction_reflection](./img/refraction_through_a_lens.jpg)
+
+---
+
+## Small Things
+
+However, when things get small, think atomic scale.  
+
+<br>
+
+All bets are off.
+<br>
+<br>
+
+
+Under certain conditions when the dimensions of the object are on the order of the wavelength of light (nanometers), the light will be spread in all directions. This is called **Scattering**.
+
+<br>
+
+Reflected or refracted light goes in one direction as determined by the laws of reflection and refraction.
+
+<br>
+<br>
+
+:::{.columns}
+::::{.column width=67%}
 
 Blue light scatters more than the other colors, because it's wavelength is ½ the size of red's wavelength
+
+<br>
+
+The Sun appears reddish-yellow because the blue light is scattered away!
+
+::::
+::::{.column width=29%}
+
+![www.enchantedlearning.com/subjects/astronomy/planets/earth/Skyblue.shtml](./img/Skyblueanim.gif)
+
+::::
+:::
 
 ---
 
@@ -145,6 +449,7 @@ Blue light scatters more than the other colors, because it's wavelength is ½ th
 
 Light is lazy.  It will take the path that takes the least time (this is actually a law!).
 Light will travel in a straight line unless there is a change in the material or material's density.
+<br>
 
 This is how lenses work.  There is a relationship between the angle a light enters a material and the material's index of refraction.
 
@@ -152,21 +457,46 @@ When light enters our atmosphere it will bend.  Depending of the wavelength it b
 
 Have you wondered why the sunlight still can be seen after it already sets.
 
+<br>
+
 ### Lenses
 
-Light goes into the lenses and there is a change in material: air to glass.  This can cause the light to bend.  You can make lenses to focus light: thing glasses. or spread light out.
+Light goes into the lenses and there is a change in material: air to glass.  This can cause the light to bend.  You can make lenses:
 
-
-
-## Lens Demo
-
-Lenses are expensive.  Glasses are lenses and they are not cheap.  Cost of a lens  ranges from $10 to $10,000 or more.  So playing with lenses tends to be done with only a few shapes by a professional.
-
-Luckily for us, jello makes great lenses for playing with and we can use cookie cutters to make our lenses in any shape!
+* to focus light: think glasses or
+* spread light out
 
 ---
 
-## From a simple question
+## Lense Demo
+
+Lenses are expensive.  
+
+<br>
+Cost of a lens  ranges from $10 to $10,000 or more.  So playing with lenses tends to be done with only a few shapes by a professional.
+
+<br>
+<br>
+
+:::{.columns}
+::::{.column width=30%}
+![](./img/jello_beakerlaser.jpg)
+::::
+::::{.column width=65%}
+
+<br>
+<br>
+<br>
+Luckily for us, jello makes great lenses for playing with.
+<br>
+<br>
+We can use cookie cutters to make our lenses in any shape!
+::::
+:::
+
+---
+
+## From two simple questions
 
 Topics covered.
 
@@ -181,11 +511,16 @@ Light and energy relationship: $E = h\nu$
 
 ---
 
-## How is a rainbow made?
+## Thank you
 
-Thank you.  I will leave you with one last question.
+I leave you with one question
 
-How is a rainbow made?
+<br>
+<br>
+
+### How is a rainbow made?
+
+![nasa image rainbow](./img/edu_rainbow_large.jpg)
 
 ---
 
