@@ -1,0 +1,199 @@
+---
+title: "STEM Light Demo"
+author: "Evelyn J. Boettcher"
+subtitle: "How we use light."
+title-slide-attributes:
+    data-background-image: 'img/2022Taste_of_IT_titleBackground.svg'
+    data-background-size: "100% 100% "
+    data-background-position: "0% "
+    data-background-opacity: "0.95"
+bibliography: references.bib
+date: Developers & Data Analytics
+format:
+    revealjs:
+        incremental: false
+
+fig-cap-location: margin
+---
+
+## Physicist
+
+I am a physicist.  A physicist is someone that studies the physical world around us.
+It is considered one of the hard sciences.  We try to answer questions? These questions lead to new understandings.  They also lead to more questions that we try to answer.
+The result of these questions help make the world better.
+
+One of the hardest parts about being a physicist is trying to answer seemingly easy questions.
+
+Like, why is the ocean blue?  or why is the sky blue?
+
+---
+
+## Easy sounding questions.
+
+Questions are only easy; if you know the answers.
+
+One reason easy sounding questions are hard to answer is because people don't want to look stupid.
+
+Who wants to make a mistake answering a kindergartener's question?
+
+So,
+Why is the ocean blue?
+
+The ocean floor is not blue
+A cup of water is not blue
+Deeper the water the bluer it is.
+
+Fun Fact:
+The answer to this question, explains why we see only certain colors of light.
+
+## Light
+
+So what is light?  Light is an electromagnetic wave.
+Depending on wavelength it has different amounts of energy.  E=h$\nu$
+
+Low frequencies are radio waves, wifi waves.  They can have a wavelength in meters.  Our eyes are only ~1 iinch so it makes sense we can not see these wavelength.
+
+High frequency wavelengths are really small, and these are the gamma rays, x-rays.  X-rays are so small that they go right through many types of material.  So it makes sense that we can not see those.
+
+But there are lots of wavelengths in between these.  So why do we only see in the “visible” spectrum?
+
+(https://www.e-education.psu.edu/meteo300/node/682)
+
+That brings us back to why the ocean is blue.
+
+---
+
+## Absorption of light in water
+
+image
+
+
+There is a narrow band where water does not absorb EM waves. Blue happens to absorb the least.  So when white light enters the water everything else gets absorbed.  The light that comes back is basically blue.
+
+Our eyes are made out of water.  So if we want to see in low light conditions, we needed to evolve to see in this band.
+
+
+
+## Breaking it down
+
+What is white light?
+https://www.britannica.com/technology/prism-optics
+
+%% How is this useful
+
+Knowing how light travels in a material is used in:
+Farming
+Finding Mineral deposits
+Identifying chemical spills
+Identifying what the planets are made of
+
+Different wavelengths get absorbed in the atmosphere.  You need to correct for the current atmosphere conditions to correctly identify materials.
+
+
+## How is light used to identify materials
+
+Scientists use spectroscopy to identify materials.  Each material has a unique spectral signature.
+The easiest way to get the unique colors from a material is to cause the light to bend.
+Each color will bend a different amount.  This allows you to see the different colors coming from it.
+
+## Helium
+
+This method was used to prove helium  existed years before it was found on earth.
+http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atspect.html
+
+### Outer Space
+
+How does one figure out what a sun or planets are if you never went there?
+
+We use the light coming from there.   The light has come from that star or planet and  we can examine it.
+
+---
+
+## Why is the ocean blue?
+
+If no one tried to answer questions like this.
+We would not have the ability to remotely analyze plant health or
+Know what the stars are made of.
+We would now know why we see in the visible spectrum.
+
+---
+
+## Why is the sky blue?
+
+Not a simple answer.
+
+* absorptions
+* scattering
+* refraction
+
+Another reason why it is hard to answer simple questions is that they are complicated.
+You have to understand lots of different areas of science.
+
+Take scattering?  What is that?
+
+Let's take a ball.  If I throw a ball, when it hits something, it either bounces back or moves through the object.  Like dropping a penny into a wishing well.
+
+For light, when light encounters an object, either reflects (bounces back) or refracts (moves through).  The forward direction, giving rise to refraction and absorption.  The backward direction, causing reflection, as shown in Fig. 2a. How it refracts and reflects is governed by physical laws.
+
+However, when things get small, think atomic scale.  All bets are off.  Under certain conditions when the dimensions of the object are on the order of the wavelength of light (nanometers), the light will be spread in all directions.  Reflected or refracted light goes in one direction as determined by the laws of reflection and refraction, as shown in Fig. 2b.
+
+Blue light scatters more than the other colors, because it's wavelength is ½ the size of red's wavelength
+
+---
+
+## Refraction
+
+Light is lazy.  It will take the path that takes the least time (this is actually a law!).
+Light will travel in a straight line unless there is a change in the material or material's density.
+
+This is how lenses work.  There is a relationship between the angle a light enters a material and the material's index of refraction.
+
+When light enters our atmosphere it will bend.  Depending of the wavelength it bends more.
+
+Have you wondered why the sunlight still can be seen after it already sets.
+
+### Lenses
+
+Light goes into the lenses and there is a change in material: air to glass.  This can cause the light to bend.  You can make lenses to focus light: thing glasses. or spread light out.
+
+
+
+## Lens Demo
+
+Lenses are expensive.  Glasses are lenses and they are not cheap.  Cost of a lens  ranges from $10 to $10,000 or more.  So playing with lenses tends to be done with only a few shapes by a professional.
+
+Luckily for us, jello makes great lenses for playing with and we can use cookie cutters to make our lenses in any shape!
+
+---
+
+## From a simple question
+
+Topics covered.
+
+* Snell’s law
+* Fermet's principle
+* Absorption
+* Spectroscopy
+* Discovery of Helium
+* Atoms
+
+Light and energy relationship: $E = h\nu$
+
+---
+
+## How is a rainbow made?
+
+Thank you.  I will leave you with one last question.
+
+How is a rainbow made?
+
+---
+
+## Equipment Needed
+
+* Jello Jigglers
+* Lasers
+* spectral scope
+
+
+

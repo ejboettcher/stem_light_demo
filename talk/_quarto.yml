@@ -1,0 +1,30 @@
+project:
+  title: "Light Demo"
+  author: "Evelyn J. Boettcher"
+  output-dir: ../docs
+
+
+format:
+  html:
+    code-fold: true
+    html-math-method: katex
+
+  revealjs:
+    theme: [default, evelyn.scss]
+    css: evelyn.css
+    logo: 'img/dayton_gearfilled.png'
+    footer: "STEM Light Demo"
+    scrollable: true
+    transition: slide
+    transition-speed: fast
+    chalkboard:
+      buttons: true
+
+execute:
+  echo: true
+  output: true
+  error: true
+
+jupyter: python3
+
+
